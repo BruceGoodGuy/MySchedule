@@ -1,0 +1,19 @@
+.bg-gray {
+    background-color: #f2f2f2;
+}
+
+.contain-date-picker {
+    cursor: pointer;
+}
+
+.contain-date-picker div:first-child:hover {
+    background-color: #cecece;
+}
+
+.bg-oral {
+    background-color: #eeece1;
+}
+
+.w-150 {
+    width: 150px;
+}
